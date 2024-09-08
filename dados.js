@@ -59,7 +59,7 @@ let dados = [
         titulo : "Stake",
         descricao : "A Stake F1 Team marcou sua entrada na Fórmula 1 com uma identidade visual marcante e uma proposta inovadora. Nascida da parceria entre a Sauber e a plataforma de jogos Stake, a equipe suíça busca revitalizar a categoria com um novo conceito de patrocínio, mais próximo dos fãs e da comunidade online. A Stake F1 Team promete trazer uma experiência única para os espectadores, com ações criativas e um forte engajamento nas redes sociais. A equipe, que tem como objetivo a longo prazo se tornar uma equipe de fábrica da Audi, representa uma nova geração de escuderias na Fórmula 1, combinando tradição e inovação.",
         link : "https://stake.com/pt/sponsorships/stake-f1-team",
-        redeSocial : "#https://www.instagram.com/stakef1team/",
+        redeSocial : "https://www.instagram.com/stakef1team/",
         tags : "Valtteri Bottas Guanyu Zhou"
     },
 
